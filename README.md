@@ -1,5 +1,5 @@
 # Define the roadmap content as a string
-roadmap_content = """
+
 # 🚀 Data Scientist Roadmap 2024
 
 A **Data Scientist roadmap** is your guide to building a career in data science, from mastering fundamentals to handling advanced machine learning algorithms. Whether you're a beginner or looking to advance your skills, this roadmap is designed to provide structure and key learning milestones.
@@ -218,10 +218,5 @@ Here are some extra websites, coding platforms, and video channels to help you c
   - [Data School](https://www.youtube.com/c/DataSchool)
 - **Competitions**:
   - [Kaggle](https://www.kaggle.com/)
-"""
 
-# Write the content to a .md file
-with open("data_scientist_roadmap_2024.md", "w") as file:
-    file.write(roadmap_content)
 
-print("Roadmap written to 'data_scientist_roadmap_2024.md'.")
