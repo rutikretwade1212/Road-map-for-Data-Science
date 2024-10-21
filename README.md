@@ -1,5 +1,3 @@
-# Define the roadmap content as a string
-
 # 🚀 Data Scientist Roadmap 2024
 
 A **Data Scientist roadmap** is your guide to building a career in data science, from mastering fundamentals to handling advanced machine learning algorithms. Whether you're a beginner or looking to advance your skills, this roadmap is designed to provide structure and key learning milestones.
